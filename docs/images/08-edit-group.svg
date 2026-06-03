@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+  <rect width="1100" height="560" fill="#f6f8fa"/>
+  <text x="40" y="55" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#24292f">第七步：编辑代理组</text>
+  <g font-family="Microsoft YaHei, Segoe UI, sans-serif">
+    <rect x="70" y="110" width="960" height="360" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+    <rect x="105" y="150" width="250" height="280" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="230" y="188" font-size="20" font-weight="700" text-anchor="middle" fill="#24292f">代理组</text>
+    <rect x="130" y="225" width="200" height="54" rx="8" fill="#0969da"/>
+    <text x="230" y="259" font-size="17" text-anchor="middle" fill="#ffffff">家宽</text>
+    <rect x="400" y="150" width="270" height="280" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="435" y="190" font-size="20" font-weight="700" fill="#24292f">组设置</text>
+    <text x="435" y="235" font-size="17" fill="#24292f">名称：家宽</text>
+    <text x="435" y="270" font-size="17" fill="#24292f">类型：select</text>
+    <text x="435" y="305" font-size="17" fill="#24292f">成员：点击右侧添加</text>
+    <rect x="710" y="150" width="280" height="280" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="850" y="190" font-size="20" font-weight="700" text-anchor="middle" fill="#24292f">候选节点 / 代理组</text>
+    <rect x="740" y="225" width="220" height="42" rx="8" fill="#dafbe1" stroke="#2da44e"/>
+    <text x="850" y="252" font-size="16" text-anchor="middle" fill="#116329">已添加：家宽 SOCKS5</text>
+    <rect x="740" y="285" width="220" height="42" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="850" y="312" font-size="16" text-anchor="middle" fill="#24292f">未添加：节点选择</text>
+    <rect x="740" y="345" width="220" height="42" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="850" y="372" font-size="16" text-anchor="middle" fill="#24292f">未添加：DIRECT</text>
+    <text x="550" y="515" font-size="17" text-anchor="middle" fill="#57606a">候选项可以点击切换添加 / 移除，已添加项会高亮显示。</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+  <rect width="1100" height="420" fill="#f6f8fa"/>
+  <text x="40" y="55" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#24292f">第一步：准备环境</text>
+  <g font-family="Microsoft YaHei, Segoe UI, sans-serif">
+    <rect x="60" y="120" width="460" height="230" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <circle cx="120" cy="178" r="34" fill="#24292f"/>
+    <text x="120" y="188" font-size="30" text-anchor="middle" fill="#ffffff">CV</text>
+    <text x="180" y="172" font-size="24" font-weight="700" fill="#24292f">Clash Verge Rev</text>
+    <text x="180" y="206" font-size="17" fill="#57606a">先安装并导入你的订阅</text>
+    <text x="90" y="280" font-size="18" fill="#24292f">用途：生成和应用增强配置</text>
+    <rect x="580" y="120" width="460" height="230" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <circle cx="640" cy="178" r="34" fill="#3776ab"/>
+    <text x="640" y="188" font-size="30" text-anchor="middle" fill="#ffffff">Py</text>
+    <text x="700" y="172" font-size="24" font-weight="700" fill="#24292f">Python 3.10+</text>
+    <text x="700" y="206" font-size="17" fill="#57606a">启动本地网页编辑器</text>
+    <rect x="700" y="248" width="260" height="44" rx="8" fill="#dafbe1" stroke="#2da44e"/>
+    <text x="830" y="277" font-size="17" text-anchor="middle" fill="#116329">勾选 Add python.exe to PATH</text>
+  </g>
+</svg>

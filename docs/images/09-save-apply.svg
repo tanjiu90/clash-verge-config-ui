@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480">
+  <rect width="1100" height="480" fill="#f6f8fa"/>
+  <text x="40" y="55" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#24292f">第八步：保存并回到 Clash Verge Rev 生效</text>
+  <g font-family="Microsoft YaHei, Segoe UI, sans-serif">
+    <rect x="80" y="130" width="260" height="200" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="210" y="185" font-size="22" font-weight="700" text-anchor="middle" fill="#24292f">编辑器</text>
+    <rect x="145" y="225" width="130" height="46" rx="8" fill="#2da44e"/>
+    <text x="210" y="255" font-size="18" text-anchor="middle" fill="#ffffff">保存</text>
+    <path d="M355 230h95" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="470" y="130" width="260" height="200" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="600" y="185" font-size="22" font-weight="700" text-anchor="middle" fill="#24292f">增强配置文件</text>
+    <text x="600" y="235" font-size="16" text-anchor="middle" fill="#57606a">自动生成备份</text>
+    <text x="600" y="265" font-size="16" text-anchor="middle" fill="#57606a">.bak-时间戳</text>
+    <path d="M745 230h95" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="860" y="130" width="170" height="200" rx="12" fill="#0969da" stroke="#0969da"/>
+    <text x="945" y="185" font-size="22" font-weight="700" text-anchor="middle" fill="#ffffff">Clash Verge</text>
+    <text x="945" y="235" font-size="17" text-anchor="middle" fill="#dbeafe">重新应用订阅</text>
+    <text x="945" y="265" font-size="17" text-anchor="middle" fill="#dbeafe">或切换 Profile</text>
+    <rect x="165" y="380" width="770" height="52" rx="10" fill="#fff8c5" stroke="#d4a72c"/>
+    <text x="550" y="413" font-size="18" text-anchor="middle" fill="#7d4e00">保存后不要忘记回到 Clash Verge Rev 重新应用，否则内核配置可能还没更新。</text>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#8c959f"/>
+    </marker>
+  </defs>
+</svg>

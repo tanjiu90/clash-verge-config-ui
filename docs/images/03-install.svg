@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480">
+  <rect width="1100" height="480" fill="#f6f8fa"/>
+  <text x="40" y="55" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#24292f">第二步：下载并安装</text>
+  <g font-family="Microsoft YaHei, Segoe UI, sans-serif">
+    <rect x="60" y="105" width="980" height="310" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+    <rect x="90" y="140" width="260" height="200" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="220" y="185" font-size="22" font-weight="700" text-anchor="middle" fill="#24292f">GitHub 页面</text>
+    <rect x="145" y="220" width="150" height="44" rx="8" fill="#2da44e"/>
+    <text x="220" y="249" font-size="18" text-anchor="middle" fill="#ffffff">Code</text>
+    <rect x="145" y="276" width="150" height="44" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="220" y="305" font-size="16" text-anchor="middle" fill="#24292f">Download ZIP</text>
+    <path d="M365 240h95" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="480" y="140" width="240" height="200" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="600" y="185" font-size="22" font-weight="700" text-anchor="middle" fill="#24292f">解压目录</text>
+    <text x="600" y="230" font-size="16" text-anchor="middle" fill="#57606a">C:\Tools\clash-verge-config-ui</text>
+    <rect x="525" y="270" width="150" height="44" rx="8" fill="#0969da"/>
+    <text x="600" y="299" font-size="17" text-anchor="middle" fill="#ffffff">打开 PowerShell</text>
+    <path d="M735 240h95" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="850" y="140" width="160" height="200" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="930" y="185" font-size="22" font-weight="700" text-anchor="middle" fill="#24292f">运行安装</text>
+    <rect x="880" y="225" width="100" height="70" rx="8" fill="#24292f"/>
+    <text x="930" y="267" font-size="15" text-anchor="middle" fill="#ffffff">install</text>
+    <text x="550" y="390" font-size="17" text-anchor="middle" fill="#57606a">安装脚本会安装依赖，并创建桌面快捷方式：Clash Verge Config UI</text>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#8c959f"/>
+    </marker>
+  </defs>
+</svg>

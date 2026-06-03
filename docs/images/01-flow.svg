@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360">
+  <rect width="1100" height="360" fill="#f6f8fa"/>
+  <text x="40" y="54" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#24292f">整体流程</text>
+  <text x="40" y="88" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="16" fill="#57606a">先让 Clash Verge 创建增强文件，再用本工具可视化编辑，最后回到 Clash Verge 重新应用。</text>
+  <g font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="18" text-anchor="middle">
+    <rect x="40" y="145" width="140" height="90" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="110" y="184" fill="#24292f" font-weight="700">安装 Python</text>
+    <text x="110" y="211" fill="#57606a" font-size="14">3.10+</text>
+    <path d="M190 190h55" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="255" y="145" width="140" height="90" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="325" y="184" fill="#24292f" font-weight="700">下载项目</text>
+    <text x="325" y="211" fill="#57606a" font-size="14">GitHub ZIP</text>
+    <path d="M405 190h55" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="470" y="145" width="140" height="90" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="540" y="184" fill="#24292f" font-weight="700">运行安装</text>
+    <text x="540" y="211" fill="#57606a" font-size="14">install-windows</text>
+    <path d="M620 190h55" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="685" y="145" width="160" height="90" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="765" y="184" fill="#24292f" font-weight="700">创建增强文件</text>
+    <text x="765" y="211" fill="#57606a" font-size="14">Clash Verge 右键</text>
+    <path d="M855 190h55" stroke="#8c959f" stroke-width="3" marker-end="url(#arrow)"/>
+    <rect x="920" y="145" width="140" height="90" rx="10" fill="#0969da" stroke="#0969da"/>
+    <text x="990" y="184" fill="#ffffff" font-weight="700">编辑并保存</text>
+    <text x="990" y="211" fill="#dbeafe" font-size="14">重新应用生效</text>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#8c959f"/>
+    </marker>
+  </defs>
+</svg>
